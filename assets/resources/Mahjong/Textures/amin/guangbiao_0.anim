@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "guangbiao_0",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": -138
+        },
+        {
+          "frame": 0.5,
+          "value": -118
+        },
+        {
+          "frame": 1.0166666666666666,
+          "value": -138
+        }
+      ]
+    }
+  },
+  "events": []
+}

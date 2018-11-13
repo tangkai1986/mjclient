@@ -1,0 +1,30 @@
+{
+  "clubres":[
+    {"id":1,"name":"泉州麻将","club_room_down":"img_majiangzhuo","club_room_title":"img_majiang"},
+    {"id":2,"name":"泉港麻将","club_room_down":"img_majiangzhuo","club_room_title":"img_majiang"},
+    {"id":3,"name":"推到胡","club_room_down":"img_majiangzhuo","club_room_title":"img_majiang"},
+    {"id":4,"name":"厦门麻将","club_room_down":"img_majiangzhuo","club_room_title":"img_majiang"},
+    {"id":5,"name":"福州麻将","club_room_down":"img_majiangzhuo","club_room_title":"img_majiang"},
+    {"id":6,"name":"龙岩麻将","club_room_down":"img_majiangzhuo","club_room_title":"img_majiang"},
+    {"id":7,"name":"莆田麻将","club_room_down":"img_majiangzhuo","club_room_title":"img_majiang"},
+    {"id":8,"name":"宁德麻将","club_room_down":"img_majiangzhuo","club_room_title":"img_majiang"},
+    {"id":9,"name":"南平麻将","club_room_down":"img_majiangzhuo","club_room_title":"img_majiang"},
+    {"id":10,"name":"三明麻将","club_room_down":"img_majiangzhuo","club_room_title":"img_majiang"},
+    {"id":11,"name":"德化麻将","club_room_down":"img_majiangzhuo","club_room_title":"img_majiang"},
+    {"id":12,"name":"惠安麻将","club_room_down":"img_majiangzhuo","club_room_title":"img_majiang"},
+    {"id":13,"name":"大菠萝","club_room_down":"img_sssz","club_room_title":"img_sss"},
+    {"id":14,"name":"斗地主","club_room_down":"img_niuniuzhuo","club_room_title":"img_niuniu"},
+    {"id":15,"name":"炸金花","club_room_down":"img_niuniuzhuo","club_room_title":"img_niuniu"},
+    {"id":16,"name":"牛牛上庄","club_room_down":"img_niuniuzhuo","club_room_title":"img_niuniu"},
+    {"id":17,"name":"固定庄家","club_room_down":"img_niuniuzhuo","club_room_title":"img_niuniu"},
+    {"id":18,"name":"自由抢庄","club_room_down":"img_niuniuzhuo","club_room_title":"img_niuniu"},
+    {"id":19,"name":"明牌牛牛","club_room_down":"img_niuniuzhuo","club_room_title":"img_niuniu"},
+    {"id":20,"name":"通比牛牛","club_room_down":"img_niuniuzhuo","club_room_title":"img_niuniu"},
+    {"id":21,"name":"德州牛牛","club_room_down":"img_niuniuzhuo","club_room_title":"img_niuniu"},
+    {"id":22,"name":"百人牛牛","club_room_down":"img_niuniuzhuo","club_room_title":"img_niuniu"},
+    {"id":23,"name":"飞行棋","club_room_down":"img_majiangzhuo","club_room_title":"img_niuniu"},
+    {"id":24,"name":"五子棋","club_room_down":"img_majiangzhuo","club_room_title":"img_niuniu"},
+    {"id":25,"name":"闽南博饼","club_room_down":"img_majiangzhuo","club_room_title":"img_niuniu"},
+    {"id":26,"name":"大话骰子","club_room_down":"img_majiangzhuo","club_room_title":"img_niuniu"}
+  ]
+}

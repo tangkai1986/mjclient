@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "peng",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b539aa92-01f9-4d93-9c33-624996b4f304"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "b539aa92-01f9-4d93-9c33-624996b4f304"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1.5
+        },
+        {
+          "frame": 0.2,
+          "value": 2
+        },
+        {
+          "frame": 0.5,
+          "value": 1
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 1.5
+        },
+        {
+          "frame": 0.2,
+          "value": 2
+        },
+        {
+          "frame": 0.5,
+          "value": 1
+        }
+      ]
+    }
+  },
+  "events": []
+}

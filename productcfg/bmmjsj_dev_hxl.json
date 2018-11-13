@@ -1,0 +1,31 @@
+{
+    "appid": "com.bamingmajiangshijie.wmwb", 
+    "appname": "八闽麻将世界", 
+    "downLoadPage": "http://d.fj116.com", 
+    "gameSvrHost": "192.168.30.28", 
+    "gameSvrPort": 10100, 
+    "gameSvrTag": "bmmjsj_dev_hxl", 
+    "hotUrl": "http://192.168.20.17/hotupdate", 
+    "payTest": 0, 
+    "platSvrHost": "192.168.30.111", 
+    "platSvrPort": 8100, 
+    "resUrl": "http://120.78.95.186", 
+    "subgamesvrsettings": {
+        "fzmj": {
+            "host": "192.168.30.28", 
+            "port": 12110
+        }, 
+        "lymj": {
+            "host": "192.168.30.28", 
+            "port": 13110
+        }, 
+        "qzmj": {
+            "host": "192.168.30.28", 
+            "port": 11110
+        }, 
+        "sss": {
+            "host": "192.168.30.28", 
+            "port": 14110
+        }
+    }
+}

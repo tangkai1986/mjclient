@@ -1,0 +1,30 @@
+{
+"19": {
+		"content": {
+			"v_midEnterLimit":"牌局开始后不允许玩家中途加入房间",
+			"v_cuopaiLimit":"不能使用搓牌功能",
+			"v_wanglaiLimit":"加入大小王作为癞子，大小王可以当做任意牌值。",
+			"v_idleBetLimit": "以设定的最大倍数抢庄失败时，不能以最小分下注；不抢庄以及抢庄倍数比庄家小的玩家下注时，不能使用推注功能。",
+			"v_idleBetDoubledLimit": "以设定的最高倍数抢庄失败时，下注分和推注分都可加倍，加倍后的分数不能超过推注上限。"
+		},
+		"title": {
+			"v_midEnterLimit": "中途禁入：",
+			"v_cuopaiLimit": "禁止搓牌：",
+			"v_wanglaiLimit": "王癞玩法：",
+			"v_idleBetLimit": "下注限制：",
+			"v_idleBetDoubledLimit": "下注加倍："
+		}
+	},
+"20": {
+		"content": {
+			"v_midEnterLimit":"牌局开始后不允许玩家中途加入房间",
+			"v_cuopaiLimit":"不能使用搓牌功能",
+			"v_wanglaiLimit":"加入大小王作为癞子，大小王可以当做任意牌值。"
+		},
+		"title": {
+			"v_midEnterLimit": "中途禁入：",
+			"v_cuopaiLimit": "禁止搓牌：",
+			"v_wanglaiLimit": "王癞玩法："
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "haidilaoyue",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.125,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e2d13936-7671-4910-9157-318ec0a6e314"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

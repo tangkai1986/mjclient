@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "130fbea6-68f4-45f1-9dfc-cc50346430a1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "img_douzhenLogo": {
+      "ver": "1.0.3",
+      "uuid": "c2094f89-8a32-461c-a2c6-81bc3443947f",
+      "rawTextureUuid": "130fbea6-68f4-45f1-9dfc-cc50346430a1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 96,
+      "height": 157,
+      "rawWidth": 96,
+      "rawHeight": 157,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

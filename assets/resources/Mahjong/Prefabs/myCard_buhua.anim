@@ -1,0 +1,99 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "myCard_buhua",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.52,
+  "sample": 50,
+  "speed": 0.8,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "effect": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "e31a14fe-0dea-4815-a1a5-97c27dc11e74"
+                }
+              },
+              {
+                "frame": 0.1,
+                "value": {
+                  "__uuid__": "44b79f20-a717-4e02-816a-af4bc01a1a77"
+                }
+              },
+              {
+                "frame": 0.2,
+                "value": {
+                  "__uuid__": "5f530fb0-fa4d-42fb-842a-2e10a82823a7"
+                }
+              },
+              {
+                "frame": 0.3,
+                "value": {
+                  "__uuid__": "048e0420-df53-49de-90e8-5fba58d21763"
+                }
+              },
+              {
+                "frame": 0.4,
+                "value": {
+                  "__uuid__": "f8d1a20b-6647-4deb-ab61-581fef921ecc"
+                }
+              },
+              {
+                "frame": 0.5,
+                "value": null
+              }
+            ]
+          }
+        }
+      },
+      "flag": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5,
+              "value": false
+            }
+          ]
+        }
+      },
+      "sign": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5,
+              "value": false
+            }
+          ]
+        }
+      },
+      "majingBg": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

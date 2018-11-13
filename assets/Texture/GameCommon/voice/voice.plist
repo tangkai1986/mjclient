@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>public/voice/record_chat_begin_ani_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{3,3},{68,62}}</string>
+				<key>offset</key>
+				<string>{0,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{68,65}</string>
+			</dict>
+			<key>public/voice/record_chat_begin_ani_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{121,3},{59,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{68,65}</string>
+			</dict>
+			<key>public/voice/record_play_ani_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{138,111},{8,9}}</string>
+				<key>offset</key>
+				<string>{1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{27,37}</string>
+			</dict>
+			<key>public/voice/record_play_ani_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{71,64},{16,20}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{27,37}</string>
+			</dict>
+			<key>public/voice/record_play_ani_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{121,68},{27,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{27,37}</string>
+			</dict>
+			<key>public/voice/record_volum_aini_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{121,111},{11,8}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{25,69}</string>
+			</dict>
+			<key>public/voice/record_volum_aini_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{3,77},{19,62}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{25,69}</string>
+			</dict>
+			<key>public/voice/record_volum_aini_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{103,44},{12,14}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{25,69}</string>
+			</dict>
+			<key>public/voice/record_volum_aini_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{93,64},{13,20}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{25,69}</string>
+			</dict>
+			<key>public/voice/record_volum_aini_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{71,44},{14,26}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{25,69}</string>
+			</dict>
+			<key>public/voice/record_volum_aini_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{71,24},{14,32}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{25,69}</string>
+			</dict>
+			<key>public/voice/record_volum_aini_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{71,3},{15,38}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{25,69}</string>
+			</dict>
+			<key>public/voice/record_volum_aini_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{154,68},{16,44}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{25,69}</string>
+			</dict>
+			<key>public/voice/record_volum_aini_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{65,102},{17,50}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{25,69}</string>
+			</dict>
+			<key>public/voice/record_volum_aini_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{3,102},{18,56}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{25,69}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>voice.png</string>
+			<key>realTextureFileName</key>
+			<string>voice.png</string>
+			<key>size</key>
+			<string>{179,123}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>179</integer>
+			<key>height</key>
+			<integer>123</integer>
+		</dict>
+	</dict>
+</plist>

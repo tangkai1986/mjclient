@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "liuju",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.3333333333333333,
+  "sample": 90,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 400
+        },
+        {
+          "frame": 0.1111111111111111,
+          "value": 350
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 250
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 100
+        },
+        {
+          "frame": 1,
+          "value": 0
+        },
+        {
+          "frame": 1.1111111111111112,
+          "value": 50
+        },
+        {
+          "frame": 1.1666666666666667,
+          "value": 0
+        },
+        {
+          "frame": 1.2777777777777777,
+          "value": 30
+        },
+        {
+          "frame": 1.3333333333333333,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

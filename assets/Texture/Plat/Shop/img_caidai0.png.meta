@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e474f087-7849-4731-8ac9-0924c384c9cd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "img_caidai0": {
+      "ver": "1.0.3",
+      "uuid": "47636669-1e98-48fd-911d-3162a470937b",
+      "rawTextureUuid": "e474f087-7849-4731-8ac9-0924c384c9cd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 25,
+      "height": 30,
+      "rawWidth": 25,
+      "rawHeight": 30,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

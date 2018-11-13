@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4b0c1f7c-b331-4ae4-9284-6b30cb8d6e32",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "img_youjin_3": {
+      "ver": "1.0.3",
+      "uuid": "ae61a35d-1cee-4cf5-a4cf-3425bb810891",
+      "rawTextureUuid": "4b0c1f7c-b331-4ae4-9284-6b30cb8d6e32",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4.5,
+      "offsetY": 1.5,
+      "trimX": 10,
+      "trimY": 32,
+      "width": 249,
+      "height": 193,
+      "rawWidth": 260,
+      "rawHeight": 260,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "buttonaudio":[
+    {"id":1,"name":"页签","file":"menu_page","des":"页签&下拉"},
+    {"id":2,"name":"领取成功","file":"task_accept","des":"领取&购买&绑定"},
+    {"id":5,"name":"输入数字","file":"ui_touch","des":"输入&确认&点击&确定"},
+    {"id":7,"name":"切换选项","file":"ui_qiehuan","des":"切换&取消"},
+    {"id":9,"name":"关闭窗口","file":"ui_close","des":"关闭&退出"}
+  ]
+}

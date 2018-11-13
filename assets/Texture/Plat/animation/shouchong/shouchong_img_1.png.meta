@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "62ce6798-e079-4ddf-8254-200c3b6bb588",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "shouchong_img_1": {
+      "ver": "1.0.3",
+      "uuid": "d57ba5f3-8371-48bf-90e1-f6bb7205c179",
+      "rawTextureUuid": "62ce6798-e079-4ddf-8254-200c3b6bb588",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 1.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 85,
+      "height": 85,
+      "rawWidth": 87,
+      "rawHeight": 92,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "qzmj":[
+    {"bettype":1,"name":"菜鸟场","v_difen":50,"v_leastcoin":1000,"v_seatcount":4},
+    {"bettype":2,"name":"平民场","v_difen":200,"v_leastcoin":8000,"v_seatcount":4},
+    {"bettype":3,"name":"土豪场","v_difen":1000,"v_leastcoin":100000,"v_seatcount":4}
+  ],
+  "qgmj":[
+    {"bettype":1,"name":"菜鸟场","v_difen":50,"v_leastcoin":1000,"v_seatcount":4},
+    {"bettype":2,"name":"平民场","v_difen":200,"v_leastcoin":8000,"v_seatcount":4},
+    {"bettype":3,"name":"土豪场","v_difen":1000,"v_leastcoin":100000,"v_seatcount":4}
+  ],
+  "qznn":[
+    {"bettype":1,"name":"菜鸟场","v_difen":50,"v_leastcoin":1000,"v_seatcount":4},
+    {"bettype":2,"name":"平民场","v_difen":200,"v_leastcoin":8000,"v_seatcount":4},
+    {"bettype":3,"name":"土豪场","v_difen":1000,"v_leastcoin":100000,"v_seatcount":4}
+  ],
+  "sss":[
+    {"bettype":1,"name":"菜鸟场","v_difen":50,"v_leastcoin":1000,"v_seatcount":4},
+    {"bettype":2,"name":"平民场","v_difen":200,"v_leastcoin":8000,"v_seatcount":4},
+    {"bettype":3,"name":"土豪场","v_difen":1000,"v_leastcoin":100000,"v_seatcount":4}
+  ]
+}

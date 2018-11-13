@@ -1,0 +1,74 @@
+{
+    "2": [
+        {"seatPos":[-490, -270], "seatType":0, "cardPos":[0, -196], "cardScale":1.5},
+        {"seatPos":[0, 320], "seatType":0, "cardPos":[0, 152], "cardScale":1.5}
+    ],
+    "3": [
+        {"seatPos":[-490, -270], "seatType":0, "cardPos":[0, -196], "cardScale":1.5},
+        {"seatPos":[253, 320], "seatType":0, "cardPos":[244, 152], "cardScale":1.5},
+        {"seatPos":[-253, 320], "seatType":0, "cardPos":[-244, 152], "cardScale":1.5}
+    ],
+    "4": [
+        {"seatPos":[-490, -270], "seatType":0, "cardPos":[0, -196], "cardScale":1.5},
+        {"seatPos":[597, -20], "seatType":1, "cardPos":[480, 0], "cardScale":1},
+        {"seatPos":[0, 320], "seatType":0, "cardPos":[0, 197], "cardScale":1},
+        {"seatPos":[-597, -20], "seatType":1, "cardPos":[-480, 0], "cardScale":1}
+    ],
+    "5": [
+        {"seatPos":[-490, -270], "seatType":0, "cardPos":[0, -196], "cardScale":1.5},
+        {"seatPos":[597, -20], "seatType":1, "cardPos":[480, 0], "cardScale":1},
+        {"seatPos":[208, 320], "seatType":0, "cardPos":[208, 197], "cardScale":1},
+        {"seatPos":[-208, 320], "seatType":0, "cardPos":[-208, 197], "cardScale":1},
+        {"seatPos":[-597, -20], "seatType":1, "cardPos":[-480, 0], "cardScale":1}
+    ],
+    "6": [
+        {"seatPos":[-490, -270], "seatType":0, "cardPos":[-175, -196], "cardScale":1.5},
+        {"seatPos":[253, -320], "seatType":0, "cardPos":[244, -197], "cardScale":1},
+        {"seatPos":[597, -20], "seatType":1, "cardPos":[480, 0], "cardScale":1},
+        {"seatPos":[208, 320], "seatType":0, "cardPos":[208, 197], "cardScale":1},
+        {"seatPos":[-208, 320], "seatType":0, "cardPos":[-208, 197], "cardScale":1},
+        {"seatPos":[-597, -20], "seatType":1, "cardPos":[-480, 0], "cardScale":1}
+    ],
+    "7": [
+        {"seatPos":[-490, -270], "seatType":0, "cardPos":[0, -196], "cardScale":1.5},
+        {"seatPos":[597, -127], "seatType":1, "cardPos":[480, -107], "cardScale":1},
+        {"seatPos":[597, 96], "seatType":1, "cardPos":[480, 116], "cardScale":1},
+        {"seatPos":[208, 320], "seatType":0, "cardPos":[208, 197], "cardScale":1},
+        {"seatPos":[-208, 320], "seatType":0, "cardPos":[-208, 197], "cardScale":1},
+        {"seatPos":[-597, 96], "seatType":1, "cardPos":[-480, 116], "cardScale":1},
+        {"seatPos":[-597, -127], "seatType":1, "cardPos":[-480, -107], "cardScale":1}
+    ],
+    "8": [
+        {"seatPos":[-490, -270], "seatType":0, "cardPos":[-175, -196], "cardScale":1.5},
+        {"seatPos":[253, -320], "seatType":0, "cardPos":[244, -197], "cardScale":1},
+        {"seatPos":[597, -127], "seatType":1, "cardPos":[480, -107], "cardScale":1},
+        {"seatPos":[597, 96], "seatType":1, "cardPos":[480, 116], "cardScale":1},
+        {"seatPos":[208, 320], "seatType":0, "cardPos":[208, 197], "cardScale":1},
+        {"seatPos":[-208, 320], "seatType":0, "cardPos":[-208, 197], "cardScale":1},
+        {"seatPos":[-597, 96], "seatType":1, "cardPos":[-480, 116], "cardScale":1},
+        {"seatPos":[-597, -127], "seatType":1, "cardPos":[-480, -107], "cardScale":1}
+    ],
+    "9": [
+        {"seatPos":[-490, -270], "seatType":0, "cardPos":[-175, -196], "cardScale":1.5},
+        {"seatPos":[253, -320], "seatType":0, "cardPos":[244, -197], "cardScale":1},
+        {"seatPos":[597, -127], "seatType":1, "cardPos":[480, -107], "cardScale":1},
+        {"seatPos":[597, 96], "seatType":1, "cardPos":[480, 116], "cardScale":1},
+        {"seatPos":[253, 320], "seatType":0, "cardPos":[244, 197], "cardScale":1},
+        {"seatPos":[0, 320], "seatType":0, "cardPos":[0, 197], "cardScale":1},
+        {"seatPos":[-253, 320], "seatType":0, "cardPos":[-244, 197], "cardScale":1},
+        {"seatPos":[-597, 96], "seatType":1, "cardPos":[-480, 116], "cardScale":1},
+        {"seatPos":[-597, -127], "seatType":1, "cardPos":[-480, -107], "cardScale":1}
+    ],
+    "10": [
+        {"seatPos":[-253, -320], "seatType":0, "cardPos":[-244, -197], "cardScale":1},
+        {"seatPos":[0, -320], "seatType":0, "cardPos":[0, -197], "cardScale":1},
+        {"seatPos":[253, -320], "seatType":0, "cardPos":[244, -197], "cardScale":1},
+        {"seatPos":[597, -127], "seatType":1, "cardPos":[480, -107], "cardScale":1},
+        {"seatPos":[597, 96], "seatType":1, "cardPos":[480, 116], "cardScale":1},
+        {"seatPos":[253, 320], "seatType":0, "cardPos":[244, 197], "cardScale":1},
+        {"seatPos":[0, 320], "seatType":0, "cardPos":[0, 197], "cardScale":1},
+        {"seatPos":[-253, 320], "seatType":0, "cardPos":[-244, 197], "cardScale":1},
+        {"seatPos":[-597, 96], "seatType":1, "cardPos":[-480, 116], "cardScale":1},
+        {"seatPos":[-597, -127], "seatType":1, "cardPos":[-480, -107], "cardScale":1}
+    ]
+}

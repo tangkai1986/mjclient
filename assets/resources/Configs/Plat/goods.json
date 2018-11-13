@@ -1,0 +1,5 @@
+[
+  {"id":1,"name":"钻石","oprice":10,"price":10,"discount":0.7,"give":2,"cate":1,"soldable":1,"amount":8,"explain":"光芒闪耀的钻石","payid":"com.xmwm.diamond60"},
+  {"id":2,"name":"钻石","oprice":30,"price":30,"discount":0.7,"give":8,"cate":1,"soldable":1,"amount":24,"explain":"光芒闪耀的钻石","payid":"com.xmwm.diamond200"},
+  {"id":3,"name":"钻石","oprice":50,"price":50,"discount":0.7,"give":16,"cate":1,"soldable":1,"amount":40,"explain":"光芒闪耀的钻石","payid":"com.xmwm.diamond340"}
+]

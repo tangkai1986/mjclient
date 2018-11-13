@@ -1,0 +1,18 @@
+biplist.egg-info
+.coverage
+htmlcov
+*.pyc
+
+# OSX noise
+.DS_Store
+profile
+Icon*
+
+# Emacs noise
+*~
+
+# tox noise
+*.egg
+
+# other noise
+.svn

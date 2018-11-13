@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f2de311c-19d2-443f-bdc7-ed1d4ba3ad18",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "img_lahei": {
+      "ver": "1.0.3",
+      "uuid": "e19615d3-e254-48d5-97bf-329bf96b99ec",
+      "rawTextureUuid": "f2de311c-19d2-443f-bdc7-ed1d4ba3ad18",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 53,
+      "height": 58,
+      "rawWidth": 53,
+      "rawHeight": 58,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

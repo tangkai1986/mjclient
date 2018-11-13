@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Sss_gun",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.15,
+  "sample": 40,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "75457737-b040-4624-89a6-389daa2766d3"
+            }
+          },
+          {
+            "frame": 0.025,
+            "value": {
+              "__uuid__": "38099af4-65f2-4c17-83aa-ddf234a77076"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "0ef6502c-d838-4d1b-98fc-79199ea7ef08"
+            }
+          },
+          {
+            "frame": 0.075,
+            "value": {
+              "__uuid__": "d82accdf-70b8-41c9-86f0-e9247cb8ab33"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "69f9568f-31e5-443f-9809-49a8cd7687eb"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "395cbd87-ed4c-41ef-83aa-6436243363ed"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

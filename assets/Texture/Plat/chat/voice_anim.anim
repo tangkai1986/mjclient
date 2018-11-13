@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "voice_anim",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.8,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "918ef0ed-a853-40e6-b1b9-4b1f1d551861"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "cbd1420b-9c88-4f99-93bf-43c58c5336d3"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "1670b667-bec4-44d4-912d-12f8d3d43b59"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "6edb24c0-d376-4e74-a4d2-f4a1e8a2ff44"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

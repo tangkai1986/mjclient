@@ -1,0 +1,10 @@
+{
+  "audio":[
+    {"id":1,"name":"背景音乐1","file":"bgm_1","type":1,"des":"背景音乐1"},
+    {"id":4,"name":"页签","file":"menu_page","type":0,"des":"页签&下拉"},
+    {"id":5,"name":"领取成功","file":"task_accept","type":0,"des":"领取&购买&绑定"},
+    {"id":6,"name":"打开窗口","file":"ui_touch","type":0,"des":"输入&确认&点击&确定"},
+    {"id":7,"name":"切换选项","file":"ui_qiehuan","type":0,"des":"切换&取消"},
+    {"id":8,"name":"关闭窗口","file":"ui_close","type":0,"des":"关闭&退出"}
+  ]
+}
